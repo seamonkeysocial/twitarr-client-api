@@ -59,7 +59,7 @@
     "jest": "^26.0.1",
     "jest-environment-node-debug": "^2.0.0",
     "parallel-webpack": "^2.3.0",
-    "prettier": "^1.16.4",
+    "prettier": "^2.2.1",
     "regenerator-runtime": "^0.13.1",
     "standard-changelog": "^1.0.13",
     "ts-loader": "^7.0.0",
