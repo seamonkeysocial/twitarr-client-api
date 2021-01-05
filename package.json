@@ -65,7 +65,7 @@
     "ts-loader": "^7.0.0",
     "ts-node": "^8.6.2",
     "typedoc": "^0.17.0",
-    "typedoc-plugin-external-module-name": "^3.0.0",
+    "typedoc-plugin-external-module-name": "^4.0.6",
     "typedoc-webpack-plugin": "^1.1.4",
     "typescript": "~3.9.2",
     "webpack": "^4.29.3",
